@@ -4,6 +4,6 @@ Added some more text to file
 
 
 
-I edit file locally
+Changed string
 
 I edit file at second
