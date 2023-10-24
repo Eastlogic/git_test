@@ -6,4 +6,4 @@ Added some more text to file
 
 Changed string
 
-I edit file at second
+Second changed string
